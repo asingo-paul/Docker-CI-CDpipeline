@@ -1,0 +1,11 @@
+.vevn/
+.gitignore
+README.md
+
+app/.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.github
